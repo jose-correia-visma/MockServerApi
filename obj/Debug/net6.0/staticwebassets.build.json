@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CtELGhf1RVTwkNcoYYgDUmNyH/9HIjD38LiSi0wcCaA=",
+  "Source": "MockServerApi",
+  "BasePath": "_content/MockServerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
